@@ -51,7 +51,7 @@ Click Run
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Kannachann/kanna-wabot/
+git clone https://github.com/arielsp12/aespibot-vip
 cd kanna-wabot
 npm i
 npm update
@@ -68,8 +68,8 @@ pkg install nodejs
 pkg install ffmpeg
 pkg install imagemagick
 pkg install libwebp
-git clone https://github.com/Kannachann/kanna-wabot/
-npm install -g npm@6.14.14
+git clone https://github.com/arielsp12/aespibot-vip
+npm install
 npm start
 ```
 
